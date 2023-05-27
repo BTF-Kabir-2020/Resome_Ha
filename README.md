@@ -59,7 +59,7 @@ https://github.com/BTF-Kabir-2020/Resome_Ha/assets/101173470/1799acb1-1f96-4a57-
 
 Bot Video:
 
-نمونه python sqlite در Discord برای ارز دیجیتال با استفاده از api برای دریافت قیمت لحظه ای
+نمونه python sqlite در Discord برای ارز دیجیتال همراه استفاده از api برای دریافت قیمت لحظه ای
 
 https://github.com/BTF-Kabir-2020/Resome_Ha/assets/101173470/ace9049a-08c4-4b5d-8a00-3382c1cf41eb
 
