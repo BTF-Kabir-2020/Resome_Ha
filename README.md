@@ -48,6 +48,40 @@ https://github.com/BTF-Kabir-2020/Resome_Ha/assets/101173470/bae11947-3217-4504-
 
 
 
+FiveM Video:
+
+نمونه html css js lua mysql در Five
+
+https://github.com/BTF-Kabir-2020/Resome_Ha/assets/101173470/7f64b5fc-8c5c-4689-a1aa-b600fc3c959f
+
+
+
+
+
+FiveM Video:
+
+نمونه html css js lua در FiveM
+
+
+https://github.com/BTF-Kabir-2020/Resome_Ha/assets/101173470/102b809f-6bd9-4ee9-aea6-6b671eb1627d
+
+
+
+
+
+
+FiveM Video:
+
+نمونه html css js lua mysql در FiveM
+
+
+https://github.com/BTF-Kabir-2020/Resome_Ha/assets/101173470/559677dc-fced-40af-847b-7cc6da0efd50
+
+
+
+
+
+
 WebSite Video:
 
 نمونه html css js vue.js در FiveM
@@ -64,8 +98,6 @@ Bot Video:
 نمونه python sqlite در Discord برای ارز دیجیتال همراه استفاده از api برای دریافت قیمت لحظه ای
 
 https://github.com/BTF-Kabir-2020/Resome_Ha/assets/101173470/ace9049a-08c4-4b5d-8a00-3382c1cf41eb
-
-
 
 
 
