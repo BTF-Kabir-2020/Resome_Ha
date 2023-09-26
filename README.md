@@ -1,10 +1,5 @@
 # Resome_Ha
 
-![image](https://github.com/BTF-Kabir-2020/Resome_Ha/assets/101173470/6ddf605f-9128-42d0-a084-12854c2534d4)
-
-
-
-
 FiveM Video:
 
 نمونه html css js lua در FiveM
