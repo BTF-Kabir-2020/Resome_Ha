@@ -109,3 +109,9 @@ https://github.com/BTF-Kabir-2020/Resome_Ha/assets/101173470/ace9049a-08c4-4b5d-
 
 
 
+
+App Video:
+
+نمونه python tkinter برای سیستم عامل
+
+https://github.com/user-attachments/assets/a0a25527-74cc-41dc-a67d-c29798335f3a
